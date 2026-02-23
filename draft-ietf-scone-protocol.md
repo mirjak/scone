@@ -901,7 +901,7 @@ similar to those of on path elements.
 
 The throughput advice is not authenticated.  Throughput advice
 might be incorrectly set in order to encourage endpoints to behave in ways that
-are not in their interests. However, endpoints are free to ignore limits. 
+are not in their interests. However, endpoints are free to ignore limits.
 The congestion controller employed by a sender provides
 real-time information about the rate at which the network path is delivering
 data.
